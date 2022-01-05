@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-gjbkq6hf1ga+vv2h@2vkk0#)cyof5e+2gc_+i4$5^w*pjb1#*)
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['.vpelmexicali.com','164.90.132.228']
+ALLOWED_HOSTS = ['.vpelmexicali.com','www.vpelmexicali.com','vpelmexicali.com','164.90.132.228']
 
 
 # Application definition
